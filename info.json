@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "fa362a5d472bfbc9fb23c2400201959ba6ecd47e",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2021-01-31 23:37:35",
+    "files": 1,
+    "merge": false,
+    "message": "Small performance tweak\n"
+  },
+  "remote": "https://github.com/ropensci/pdftools",
+  "pkg": "pdftools"
+}
