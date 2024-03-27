@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d0ffe2739290b50571bbe65f774bd7417073011b",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2023-10-09 08:57:23",
+    "files": 1,
+    "merge": false,
+    "message": "Remove legacy stuff\n"
+  },
+  "repo": "https://github.com/ropensci/pdftools",
+  "pkg": "pdftools"
+}
