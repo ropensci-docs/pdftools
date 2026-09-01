@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "6f79a74b7033c341cd812305c8801554e5d72bfd",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2026-08-30T11:20:03Z",
+    "files": 2,
+    "merge": false,
+    "message": "Bump version\n"
+  },
+  "repo": "https://github.com/ropensci/pdftools",
+  "pkg": "pdftools",
+  "time": "2026-09-01T21:31:11Z"
+}
